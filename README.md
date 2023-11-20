@@ -11,7 +11,7 @@ I'm a mobile application developer at [ONES & ZEROS](https://onzdev.com) in Sapu
 
 ### GitHub Stats:
 <div>
-  <a href="https://github.com/phferreira">
+  <a href="https://github.com/Sameera-Perera">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sameera-Perera&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameera-Perera&layout=compact&langs_count=10&theme=radical&count_private=true&exclude_repo=frintter,kingburger"/>
 <div>
