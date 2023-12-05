@@ -1,5 +1,4 @@
 ### Hi there 👋
-I'm a mobile application developer at [ONES & ZEROS](https://onzdev.com) in Sapugaskanda, SL.
 
 - 🧱 I’m currently working on [Flutter-TDD-Clean-Architecture-E-Commerce-App](https://github.com/Sameera-Perera/Flutter-TDD-Clean-Architecture-E-Commerce-App).
 - 🌱 I'm currently learning programming architecture.
