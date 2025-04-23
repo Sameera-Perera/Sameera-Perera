@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🧱 I’m currently working on [Flutter-TDD-Clean-Architecture-E-Commerce-App](https://github.com/Sameera-Perera/Flutter-TDD-Clean-Architecture-E-Commerce-App).
-- 🌱 I'm currently learning programming architecture.
+- 🌱 I'm currently learning SOLID principles.
 - 🧑‍💻 I’m looking to collaborate on open source projects.
 - 💬 Ask me about [Flutter](https://flutter.dev) and [Dart](https://dart.dev).
 
